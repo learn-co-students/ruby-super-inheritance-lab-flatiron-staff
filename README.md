@@ -1,5 +1,5 @@
 # Ruby Super Inheritance Lab 
-
+asdfasdf
 ## Objectives
 
 1. Define two classes, one of which inherits from another. 
